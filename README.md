@@ -9,3 +9,5 @@ https://cloudlabs.nuvepro.com/subscriptions/launch?id=2058794
 https://accounts.gcp.databricks.com/workspaces/3930580140513513
 
 https://3930580140513513.3.gcp.databricks.com/?o=3930580140513513#notebook/3511283084141283/command/3511283084141292
+
+https://airflow.apache.org/docs/apache-airflow/stable/howto/usage-cli.html
